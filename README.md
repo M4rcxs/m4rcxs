@@ -1,4 +1,6 @@
 - 👋 Eaee, meu nome é Marcos 😆
+- 👨‍🎓 Universitário de Ciência da Computação na UFRRJ 👌
+- 👀 Completamente apaixonado por Segurança da Informação e Hacking Ético 🤓
 - 📫 Minhas redes sociais [Instagram]. <a href="https://instagram.com/marcxs.silva">@Marcxs.silva</a> ✔
 ##
 <div align="center">
@@ -17,7 +19,7 @@
   <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
-### 
+## 
 <div> 
   <a href="https://instagram.com/marcxs.silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/m4rcxs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
