@@ -1,7 +1,8 @@
 - 👋 Eaee, meu nome é Marcos 😆
 - 👨‍🎓 Universitário de Ciência da Computação na UFRRJ 👌
 - 👀 Completamente apaixonado por Segurança da Informação e Hacking Ético 🤓
-- 📫 Minhas redes sociais [Instagram]. <a href="https://instagram.com/marcxs.silva">@Marcxs.silva</a> ✔
+- 💼Meu LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 👔
+- 📫 Meu Instagram: <a href="https://instagram.com/marcxs.silva">@Marcxs.silva</a> ✔
 ##
 <div align="center">
   <a href="https://github.com/m4rcxs">
