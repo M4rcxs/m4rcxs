@@ -1,8 +1,11 @@
-- 👋 Eaee, meu nome é Marcos 😆
-- 👨‍🎓 Universitário de Ciência da Computação na UFRRJ 👌
+<h3>Me conheça um pouco!</h3>
+
+- 👋 Olá, meu nome é Marcos 😆
+- 👨‍🎓 Universitário, Ciência da Computação na UFRRJ 👌
 - 📚 Inglês avançado 🗽
+- 🎻 Músico, violinista, violonista e guitarrista 🎸
 - 👀 Completamente apaixonado por Segurança da Informação e Hacking Ético 🤓
-- 💼Meu LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 👔
+- 💼 Meu LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 👔
 - 📫 Meu Instagram: <a href="https://instagram.com/marcxs.silva">@Marcxs.silva</a> 📷 
 ##
 <div align="center">
