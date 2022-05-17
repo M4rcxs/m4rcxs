@@ -4,7 +4,7 @@
 - 👨‍🎓 Universitário, Ciência da Computação na UFRRJ 👌
 - 📚 Inglês avançado 🗽
 - 🎻 Músico, violinista, violonista e guitarrista 🎸
-- 👀 Completamente apaixonado por Segurança da Informação e Hacking Ético 🤓
+- 👀 Completamente apaixonado por Programação, Segurança da Informação e Hacking Ético 🤓
 - 💼 Meu LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 👔
 - 📫 Meu Instagram: <a href="https://instagram.com/marcxs.silva">@Marcxs.silva</a> 📷 
 ##
