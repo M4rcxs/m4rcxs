@@ -1,7 +1,7 @@
 <h3>Me conheça um pouco!</h3>
 
 - 👋 Olá, meu nome é Marcos 😆
-- 👨‍🎓 Universitário, Ciência da Computação na UFRRJ 👌
+- 👨‍🎓 Bolsista de Iniciação Científica, Ciência da Computação na UFRRJ 👌
 - 📚 Inglês avançado 🗽
 - 🎻 Músico, violinista, violonista e guitarrista 🎸
 - 👀 Completamente apaixonado por Programação, Segurança da Informação e Hacking Ético 🤓
