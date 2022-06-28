@@ -9,8 +9,8 @@
 - 📫 Meu Instagram: <a href="https://instagram.com/marcxs.silva">@Marcxs.silva</a> 📷 
 ##
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4rcxs&show_icons=true&include_all_commits=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcxs&layout=compact&langs_count=10)](https://github.com/vargastm/github-readme-statsCompact&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4rcxs&show_icons=true&include_all_commits=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcxs&layout=compact&langs_count=8)](https://github.com/vargastm/github-readme-statsCompact&theme=radical"/>
 </div>
 
 ##
