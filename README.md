@@ -1,12 +1,12 @@
-<h3>Me conheça um pouco!</h3>
+<h3>About me</h3>
 
-- 👋 Olá, meu nome é Marcos 😆
-- 👨‍🎓 Bolsista de Iniciação Científica, Ciência da Computação - UFRRJ 👌
-- 📚 Inglês avançado 🗽
-- 🎻 Músico, violinista, violonista e guitarrista 🎸
-- 👀 Completamente apaixonado por Programação, Segurança da Informação e Hacking Ético 🤓
-- 💼 Meu LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 👔
-- 📫 Meu Instagram: <a href="https://instagram.com/marcxs.silva">@Marcxs.silva</a> 📷 
+- 👋 Hi, my name is Marcos. Software Engineer Intern at Bitnine Global Inc. 😆
+- 👨‍🎓 Computer Science - UFRRJ 👌
+- 📚 Advanced English 🗽
+- 🎻 Musician, Violinist and Chess Player 🎸
+- 👀 In love with Technology and programming 🤓
+- 💼 LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 👔
+- 📫 Instagram: <a href="https://instagram.com/marcxs.silva">@Marcxs.silva</a> 📷 
 ##
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4rcxs&show_icons=true&include_all_commits=true&theme=radical"/>
@@ -14,7 +14,7 @@
 </div>
 
 ##
-<h2>Habilidades e Conhecimentos</h2>
+<h2>Habilities</h2>
 <div style="display: inline_block"><br>
     <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
