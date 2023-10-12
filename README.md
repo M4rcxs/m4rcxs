@@ -6,7 +6,6 @@
 - 🎻 Musician, Violinist and Chess Player 🎸
 - 👀 In love with Technology and programming 🤓
 - 💼 LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 👔
-- 📫 Instagram: <a href="https://instagram.com/marcxs.silva">@Marcxs.silva</a> 📷 
 ##
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4rcxs&show_icons=true&include_all_commits=true&theme=radical"/>
