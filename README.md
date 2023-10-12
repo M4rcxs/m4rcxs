@@ -1,6 +1,6 @@
 <h3>About me</h3>
 
-- 👋 Hi, my name is Marcos. Software Engineer Intern at Bitnine Global Inc. 😆
+- 👋 Hi, my name is Marcos. I'm Software Engineer Jr. 😆
 - 👨‍🎓 Computer Science - UFRRJ 👌
 - 📚 Advanced English 🗽
 - 🎻 Musician, Violinist and Chess Player 🎸
