@@ -5,8 +5,8 @@
 - 👋 Hi, my name is Marcos. I'm Software Engineer Jr.
 - 🎓 Computer Science - UFRRJ.
 - 🎻 Musician, Violinist and Chess Player.
-- 👀 In love with Technology and programming
-- 💼 LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 
+- 👀 In love with Technology and programming.
+- 💼 LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a>
 
 ## Skills
 
