@@ -5,7 +5,6 @@
 - 👋 Hi, my name is Marcos. I'm Software Engineer Jr.
 - 🎓 Computer Science - UFRRJ.
 - 🎻 Musician, Violinist and Chess Player.
-- 📚 Advanced English.
 - 👀 In love with Technology and programming
 - 💼 LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 
 
@@ -36,11 +35,11 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/m4rcxs" title="Marcos Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4rcxs&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Reach me
 
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/m4rcxs)]((https://linkedin.com/in/m4rcxs))
+<a href="https://www.linkedin.com/in/m4rcxs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 [![GitHub](https://img.shields.io/github/followers/m4rcxs?label=follow&style=social)](github.com/m4rcxs)
