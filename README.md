@@ -1,35 +1,46 @@
-<h3>About me</h3>
+![](https://komarev.com/ghpvc/?username=m4rcxs&color=006bed)
 
-- 👋 Hi, my name is Marcos. I'm Software Engineer Jr. 
-- 👨‍🎓 Computer Science - UFRRJ 
-- 📚 Advanced English 
-- 🎻 Musician, Violinist and Chess Player 
-- 👀 In love with Technology and programming 
+## About me
+
+- 👋 Hi, my name is Marcos. I'm Software Engineer Jr.
+- 🎓 Computer Science - UFRRJ.
+- 🎻 Musician, Violinist and Chess Player.
+- 📚 Advanced English.
+- 👀 In love with Technology and programming
 - 💼 LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 
-##
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4rcxs&show_icons=true&include_all_commits=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcxs&layout=compact&langs_count=8)](https://github.com/vargastm/github-readme-statsCompact&theme=radical"/>
-</div>
 
-##
-<h2>Habilities</h2>
-<div style="display: inline_block"><br>
-    <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Marcos-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="Marcos-AdonisJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
-    <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="Marcos-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Marcos-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Marcos-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Marcos-Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Marcos-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-</div>
+## Skills
 
-##
-<div> 
-    <a href="https://www.linkedin.com/in/m4rcxs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+**Technologies**
+
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+**Utilities**
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4rcxs&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/m4rcxs)]((https://linkedin.com/in/m4rcxs))
+[![GitHub](https://img.shields.io/github/followers/m4rcxs?label=follow&style=social)](github.com/m4rcxs)
