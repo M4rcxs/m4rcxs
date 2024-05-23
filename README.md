@@ -1,11 +1,11 @@
 <h3>About me</h3>
 
-- 👋 Hi, my name is Marcos. I'm Software Engineer Jr. 😆
-- 👨‍🎓 Computer Science - UFRRJ 👌
-- 📚 Advanced English 🗽
-- 🎻 Musician, Violinist and Chess Player 🎸
-- 👀 In love with Technology and programming 🤓
-- 💼 LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 👔
+- 👋 Hi, my name is Marcos. I'm Software Engineer Jr. 
+- 👨‍🎓 Computer Science - UFRRJ 
+- 📚 Advanced English 
+- 🎻 Musician, Violinist and Chess Player 
+- 👀 In love with Technology and programming 
+- 💼 LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a> 
 ##
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4rcxs&show_icons=true&include_all_commits=true&theme=radical"/>
