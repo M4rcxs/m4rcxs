@@ -2,7 +2,7 @@
 
 ## About me
 
-- 👋 Hi, my name is Marcos. I'm Software Engineer Jr.
+- 👋 Hi, my name is Marcos. I'm Software Engineer.
 - 🎓 Computer Science - UFRRJ.
 - 🎻 Musician, Violinist and Chess Player.
 - 👀 In love with Technology and programming.
