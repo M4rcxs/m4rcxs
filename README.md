@@ -4,7 +4,7 @@
 
 - 👋 Hi, my name is Marcos. I'm Software Engineer.
 - 💼 LinkedIn: <a href="https://LinkedIn.com/in/m4rcxs">Marcos Silva</a>
-- Projects: <a href="https://datacorners.pro">DataCorners - IA</a> / <a href="https://milhaspix.vercel.app">Frontend - Contests</a> / <a href="https://webcrumbs.ai">Webcrumbs AI</a> 
+- Working: <a href="https://datacorners.pro">DataCorners - IA</a> / <a href="https://milhaspix.vercel.app">Frontend - Contests</a> / <a href="https://webcrumbs.ai">Webcrumbs AI</a> 
 
 ## Skills
 
